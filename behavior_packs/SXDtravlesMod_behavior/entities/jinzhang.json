@@ -1,0 +1,21 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "boss:jinzhang",
+            "is_spawnable": true,
+            "is_summonable": true,
+            "is_experimental": false
+        },
+
+        "components": {
+            "minecraft:type_family": {
+                "family": ["armor_stand", "inanimate", "mob"]
+            },
+            "minecraft:scale": {
+                "value": 0.2
+            },
+            "minecraft:physics": {}
+        }
+    }
+}

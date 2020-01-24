@@ -1,0 +1,44 @@
+{
+	"geometry.jinzhang": {
+		"texturewidth": 432,
+		"textureheight": 432,
+		"visible_bounds_width": 27,
+		"visible_bounds_height": 1,
+		"visible_bounds_offset": [0, 0.5, 0],
+		"bones": [{
+			"name": "bone",
+			"pivot": [0, 0, 0],
+			"cubes": [{
+					"origin": [-34, 0, -6],
+					"size": [42, 8, 7],
+					"uv": [272, 22]
+				},
+				{
+					"origin": [8, 0, -5],
+					"size": [22, 7, 7],
+					"uv": [90, 37]
+				},
+				{
+					"origin": [30, 0, -9],
+					"size": [36, 9, 9],
+					"uv": [0, 37]
+				},
+				{
+					"origin": [66, 0, -6],
+					"size": [45, 6, 7],
+					"uv": [168, 22]
+				},
+				{
+					"origin": [111, 0, -7],
+					"size": [77, 6, 7],
+					"uv": [0, 22]
+				},
+				{
+					"origin": [-233, -1, 0],
+					"size": [199, 11, 11],
+					"uv": [0, 0]
+				}
+			]
+		}]
+	}
+}

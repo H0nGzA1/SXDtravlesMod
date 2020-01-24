@@ -1,0 +1,22 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "boss:taiyanglun",
+            "materials": {
+                "default": "armor_stand"
+            },
+            "textures": {
+                "default": "textures/entity/taiyanglun"
+            },
+            "geometry": {
+                "default": "geometry.taiyanglun"
+            },
+            "render_controllers": ["controller.render.function_block"],
+            "spawn_egg": {
+                "texture": "spawn_egg",
+                "texture_index": 18
+            }
+        }
+    }
+}

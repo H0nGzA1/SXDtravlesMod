@@ -1,0 +1,25 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "boss:narrator",
+            "is_spawnable": true,
+            "is_summonable": true,
+            "is_experimental": false
+        },
+
+        "components": {
+            "minecraft:type_family": {
+                "family": ["armor_stand", "inanimate", "mob"]
+            },
+            "minecraft:scale": {
+                "value": 1.0
+            },
+            "minecraft:physics": {},
+            "minecraft:pushable": {
+                "is_pushable": false,
+                "is_pushable_by_piston": false
+            }
+        }
+    }
+}
